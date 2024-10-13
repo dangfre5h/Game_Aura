@@ -5,7 +5,35 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Workspace/UEProjects/Aura/Content/Maps/StartupMap.umap"
+				"E:/Workspace/UEProjects/Aura/Content/Maps/StartupMap.umap",
+				"E:/Workspace/UEProjects/Aura/Content/Assets/Characters/Aura/SKM_Aura.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Character/Goblin_Spear/BP_Goblin_Spear.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Character/Aura/ABP_Aura.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Character/ABP_Enemy.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Assets/Enemies/Goblin/SKM_Goblin.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Character/Goblin_Slingshot/ABP_Goblin_Slingshot.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Assets/Characters/Aura/Animations/IdleWalkRun.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Assets/Enemies/Goblin/SK_Goblin.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Input/IMC_AuraContext.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Input/InputActions/IA_Move.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Player/BP_AuraPlayerController.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Game/BP_AuraGameMode.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Character/BP_EnemyBase.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Assets/Materials/PP_Highlight.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Player/BP_AuraPlayerState.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Actor/BP_HealthPotion.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBarBase.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/UI/ProgressBar/WBP_HealthGlobe.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/UI/ProgressBar/WBP_ManaGlobe.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/UI/HUD/BP_AuraHUD.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/UI/WidgetController/BP_OverlayWidgetController.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Character/AuraEnemy/BP_Goblin_Spear.uasset",
+				"E:/Workspace/UEProjects/Aura/Content/Blueprints/Character/GoblinSpear/BP_Goblin_Spear.uasset"
 			]
 		}
 	]
